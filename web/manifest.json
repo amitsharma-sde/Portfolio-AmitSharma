@@ -1,6 +1,6 @@
 {
     "name": "portfolio_amitsharma",
-    "short_name": "portfolio_amitsharma",
+    // "short_name": "portfolio_amitsharma",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
